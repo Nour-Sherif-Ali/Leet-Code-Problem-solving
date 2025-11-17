@@ -30,4 +30,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-average-selling-price](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/1390-average-selling-price) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/1908-recyclable-and-low-fat-products) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
