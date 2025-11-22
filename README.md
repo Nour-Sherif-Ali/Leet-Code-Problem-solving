@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0001-two-sum) |
 | [0924-fair-candy-swap](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0924-fair-candy-swap) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0001-two-sum) |
 | [0924-fair-candy-swap](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0924-fair-candy-swap) |
 ## Binary Search
 |  |
