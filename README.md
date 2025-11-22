@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0001-two-sum) |
+| [0238-product-of-array-except-self](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0238-product-of-array-except-self) |
 | [0924-fair-candy-swap](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0924-fair-candy-swap) |
 ## Hash Table
 |  |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
