@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0303-range-sum-query-immutable) |
 ## Two Pointers
 |  |
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0387-first-unique-character-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
