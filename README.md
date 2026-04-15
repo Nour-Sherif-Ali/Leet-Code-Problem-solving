@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0347-top-k-frequent-elements) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0387-first-unique-character-in-a-string) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0455-assign-cookies) |
