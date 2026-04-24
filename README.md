@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0204-count-primes) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0349-intersection-of-two-arrays) |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0036-valid-sudoku) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
