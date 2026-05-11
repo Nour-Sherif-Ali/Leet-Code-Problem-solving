@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0349-intersection-of-two-arrays) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
@@ -181,6 +184,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0567-permutation-in-string) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
