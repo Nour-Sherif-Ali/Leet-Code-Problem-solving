@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0455-assign-cookies) |
+| [0704-binary-search](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0853-car-fleet) |
 | [0888-fair-candy-swap](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0888-fair-candy-swap) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0704-binary-search) |
 | [0888-fair-candy-swap](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0888-fair-candy-swap) |
 | [0924-fair-candy-swap](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0924-fair-candy-swap) |
 ## Sorting
