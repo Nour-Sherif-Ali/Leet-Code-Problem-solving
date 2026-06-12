@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0918-maximum-sum-circular-subarray) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0155-min-stack) |
@@ -225,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0853-car-fleet) |
 ## Depth-First Search
