@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0704-binary-search) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0074-search-a-2d-matrix) |
 ## Union-Find
 |  |
 | ------- |
