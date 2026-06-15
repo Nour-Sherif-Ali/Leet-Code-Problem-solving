@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0888-fair-candy-swap) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0918-maximum-sum-circular-subarray) |
 | [0924-fair-candy-swap](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0924-fair-candy-swap) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0888-fair-candy-swap) |
 | [0924-fair-candy-swap](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0924-fair-candy-swap) |
 ## Sorting
