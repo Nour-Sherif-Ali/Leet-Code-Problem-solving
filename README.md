@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0918-maximum-sum-circular-subarray) |
 ## Recursion
