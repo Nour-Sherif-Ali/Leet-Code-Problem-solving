@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0349-intersection-of-two-arrays) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0875-koko-eating-bananas) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0455-assign-cookies) |
@@ -267,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0876-middle-of-the-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
