@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0242-valid-anagram) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0303-range-sum-query-immutable) |
 ## Two Pointers
@@ -268,10 +270,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0876-middle-of-the-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0287-find-the-duplicate-number) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
