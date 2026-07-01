@@ -256,11 +256,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0226-invert-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0226-invert-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
@@ -286,9 +288,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
