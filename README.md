@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0876-middle-of-the-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0567-permutation-in-string) |
+| [1768-merge-strings-alternately](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/1768-merge-strings-alternately) |
 ## Enumeration
 |  |
 | ------- |
