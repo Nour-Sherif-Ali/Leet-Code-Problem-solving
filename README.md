@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0572-subtree-of-another-tree) |
 | [0785-is-graph-bipartite](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0450-delete-node-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0450-delete-node-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
@@ -314,4 +317,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0701-insert-into-a-binary-search-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
