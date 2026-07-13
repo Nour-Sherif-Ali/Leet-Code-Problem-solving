@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0785-is-graph-bipartite) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0700-search-in-a-binary-search-tree) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0700-search-in-a-binary-search-tree) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0701-insert-into-a-binary-search-tree) |
