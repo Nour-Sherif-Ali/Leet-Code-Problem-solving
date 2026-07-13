@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/1291-sequential-digits) |
 ## Number Theory
 |  |
 | ------- |
