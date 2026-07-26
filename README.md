@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0853-car-fleet) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0621-task-scheduler) |
 | [0888-fair-candy-swap](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0888-fair-candy-swap) |
 | [0924-fair-candy-swap](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0924-fair-candy-swap) |
 ## Binary Search
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0853-car-fleet) |
 | [0888-fair-candy-swap](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0888-fair-candy-swap) |
 | [0924-fair-candy-swap](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0924-fair-candy-swap) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0621-task-scheduler) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -128,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
@@ -163,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0621-task-scheduler) |
 ## Math
 |  |
 | ------- |
