@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0621-task-scheduler) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0303-range-sum-query-immutable) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Two Pointers
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
 |  |
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## String Matching
 |  |
@@ -352,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0877-stone-game) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
