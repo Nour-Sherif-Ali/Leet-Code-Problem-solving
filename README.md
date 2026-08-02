@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0888-fair-candy-swap) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0918-maximum-sum-circular-subarray) |
 | [0924-fair-candy-swap](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0924-fair-candy-swap) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0918-maximum-sum-circular-subarray) |
 ## Recursion
 |  |
@@ -345,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0572-subtree-of-another-tree) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
