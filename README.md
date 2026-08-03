@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0238-product-of-array-except-self) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0049-group-anagrams) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0347-top-k-frequent-elements) |
@@ -117,11 +119,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0621-task-scheduler) |
@@ -140,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0347-top-k-frequent-elements) |
 ## Design
 |  |
