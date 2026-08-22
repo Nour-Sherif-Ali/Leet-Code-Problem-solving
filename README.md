@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0888-fair-candy-swap) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0918-maximum-sum-circular-subarray) |
 | [0924-fair-candy-swap](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0924-fair-candy-swap) |
+| [0948-bag-of-tokens](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0948-bag-of-tokens) |
 | [1046-last-stone-weight](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/1046-last-stone-weight) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Hash Table
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0853-car-fleet) |
 | [0888-fair-candy-swap](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0888-fair-candy-swap) |
 | [0924-fair-candy-swap](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0924-fair-candy-swap) |
+| [0948-bag-of-tokens](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0948-bag-of-tokens) |
 ## Database
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0876-middle-of-the-linked-list) |
+| [0948-bag-of-tokens](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0948-bag-of-tokens) |
 | [1768-merge-strings-alternately](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0621-task-scheduler) |
+| [0948-bag-of-tokens](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0948-bag-of-tokens) |
 ## Math
 |  |
 | ------- |
