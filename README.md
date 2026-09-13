@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0509-fibonacci-number) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0877-stone-game) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0509-fibonacci-number) |
 ## String
 |  |
