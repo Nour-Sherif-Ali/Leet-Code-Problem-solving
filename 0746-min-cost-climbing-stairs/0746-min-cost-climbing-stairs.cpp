@@ -1,18 +1,17 @@
 class Solution {
 public:
-    vector<int> memo ; 
-    int solve(vector<int>& cost, int n )
-    {
-        if(n == 0 || n == 1) return 0 ; 
-        if(memo[n] != -1) return memo[n];
-        int oneStep = solve(cost , n-1) + cost[n-1] ; 
-        int twoStep = solve(cost , n-2) + cost[n-2] ;
-
-        return memo[n] = min(oneStep , twoStep) ;  
-    }  
     int minCostClimbingStairs(vector<int>& cost) {
-      int n = cost.size() ; 
-      memo.assign(n+1, -1); 
-      return solve(cost,n) ; 
+      int n = cost.size(); 
+       int prev1 = cost[1] ; 
+       int prev2 = cost[0] ; 
+     
+      for(int i = 2 ; i < n ;i++)
+      {
+         int current = min(prev1,prev2) + cost[i] ; 
+         prev2 = prev1 ; 
+         prev1 = current ; 
+      } 
+      return min(prev1 , prev2) ; 
+      
     }
 };
