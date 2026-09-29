@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0128-longest-consecutive-sequence) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0287-find-the-duplicate-number) |
 ## Doubly-Linked List
 |  |
@@ -382,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0703-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
