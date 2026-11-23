@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0739-daily-temperatures) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0621-task-scheduler) |
 | [0888-fair-candy-swap](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0888-fair-candy-swap) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0853-car-fleet) |
 ## Matrix
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Nour-Sherif-Ali/Leet-Code-Problem-solving/tree/master/0853-car-fleet) |
 ## Depth-First Search
